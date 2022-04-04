@@ -1,0 +1,15 @@
+Calalal,25.53.249.113,Adsiz_1
+Calalal,25.53.249.113,Adsiz_2
+Calalal,25.53.249.113,Adsiz_3
+Calalal,25.53.249.113,Adsiz_4
+Calalal,25.53.249.113,Adsiz_5
+deniyore,25.93.121.169,Ekran Alýntýsý_1
+deniyore,25.93.121.169,Ekran Alýntýsý_2
+deniyore,25.93.121.169,Ekran Alýntýsý_3
+deniyore,25.93.121.169,Ekran Alýntýsý_4
+deniyore,25.93.121.169,Ekran Alýntýsý_5
+AYSE,25.42.254.70,5_1
+AYSE,25.42.254.70,5_2
+AYSE,25.42.254.70,5_3
+AYSE,25.42.254.70,5_4
+AYSE,25.42.254.70,5_5
